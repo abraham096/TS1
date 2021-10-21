@@ -1,1 +1,2 @@
 Éste es un archivo de ejemplo
+Línea agregada en el EOF
